@@ -11,4 +11,3 @@ Trello desktop app based made with Electron
 
 
 ## Screenshot
-![screenshot](/webview/browser/screenshot/screenshot.png)
